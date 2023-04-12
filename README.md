@@ -18,5 +18,4 @@ A Hotel-Home-Page
 ## Author
 
 - GitHub - [Gerson_ADS](https://github.com/GersonADS)
-- Frontend Mentor - [@GersonADS](https://www.frontendmentor.io/profile/GersonADS)
 
