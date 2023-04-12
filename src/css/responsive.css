@@ -16,3 +16,9 @@
         flex-basis: 100%;
     }
 }
+
+@media (max-width: 850px){
+    .caracteristicas .grid {
+        flex-direction:  column;
+    }
+}
