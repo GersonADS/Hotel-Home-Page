@@ -21,4 +21,13 @@
     .caracteristicas .grid {
         flex-direction:  column;
     }
+
+}
+
+@media (max-width: 700px) {
+    .newsletter input {
+        flex-basis: 100%;
+        margin-bottom: 15px;
+        
+    }
 }
