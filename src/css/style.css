@@ -35,7 +35,7 @@ header li:last-child{
 /*HERO*/
 .hero {
     display: flex;
-    background-image: url('/img/hero.jpg');
+    background-image: url('img/hero.jpg');
     text-align: center;
     background-size: cover;
     min-height: 100vh;
