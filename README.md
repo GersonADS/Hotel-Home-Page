@@ -14,8 +14,6 @@ A Hotel-Home-Page
 
 - HTML5
 - CSS3
-- JavaScript(RegEx)
---FlexBox
 
 ## Author
 
