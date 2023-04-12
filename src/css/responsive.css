@@ -5,4 +5,10 @@
     header img {
         margin-bottom: 15px;
     }
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    hero h3 {
+        font-size: 1.5rem;
+    }
 }
